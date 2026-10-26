@@ -1,0 +1,23 @@
+bin/core/Cargo.toml
+  s_a70b47d04203ba::t_b334fb59bf8815 85-88
+bin/core/src/api/ws/update.rs
+  s_a70b47d04203ba::t_eeca299dd077fe 7,9-10,15-16,18,29,39,42-57,59-68,71-72,76-128,130-136,139-149,151-197,217-580
+ui/src/lib/socket.tsx
+  s_a70b47d04203ba::t_a1b8fea53860e1 2,61,86-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b8720df7c29d225340e9ef73e7573a19bc60342c",
+  "prompts": {},
+  "sessions": {
+    "s_a70b47d04203ba": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1773d-5258-7f72-9287-170442f0d8e8",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "TheophileDiot <tdiot@bunkerity.com>"
+    }
+  }
+}
